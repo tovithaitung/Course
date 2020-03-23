@@ -13,7 +13,7 @@
  *   Rus Carroll
  *   logmanoriginal
  *
- * Contributors:fvfvfvf
+ * Contributors:
  *   Yousuke Kumakura
  *   Vadim Voituk dasdfasdas
  *   Antcs
