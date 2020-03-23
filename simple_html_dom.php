@@ -15,7 +15,7 @@
  *
  * Contributors:
  *   Yousuke Kumakura
- *   Vadim Voituk
+ *   Vadim Voituk dasdfasdas
  *   Antcs
  *
  * Version Rev. 1.9.1 (291)
